@@ -4,7 +4,7 @@ using namespace std;
 
 void printMyName () {
 	//TODO
-	cout << 'Milijana'
+	cout << 'Milijana Pesic'
 }
 
 void printMyIndex () {
